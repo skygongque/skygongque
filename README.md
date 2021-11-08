@@ -1,5 +1,6 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=skygongque)](https://github.com/skygongque)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skygongque&layout=compact)](https://github.com/skygongque)
 
 <!--
 **skygongque/skygongque** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
